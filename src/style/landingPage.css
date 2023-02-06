@@ -1,0 +1,49 @@
+.mybg {
+    height: 100vh;
+    background: url("../assets/images/bg/cinema.jpg");
+    background-size: cover;
+}
+
+.intro {
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+}
+
+.trending {
+    height: auto;
+    background: url("../assets/images/bg/cinema.jpg");
+    background-size: cover;
+}
+
+.terbaru {
+    height: auto;
+    background: url("../assets/images/bg/cinema.jpg");
+    background-size: cover;
+}
+
+.superhero {
+    height: auto;
+    background: url("../assets/images/bg/cinema.jpg");
+    background-size: cover;
+}
+
+.movieWrapper {
+}
+
+.movieImage {
+    height: auto;
+    background-color: black;
+    margin: 10px;
+    padding: -1px;
+}
+.Image {
+    height:500px;
+}
